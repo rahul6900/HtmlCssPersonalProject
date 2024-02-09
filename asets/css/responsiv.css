@@ -1,0 +1,354 @@
+
+
+
+/* navbar css is start*/
+
+
+@media only screen and (max-width:1280px) {
+
+    #nav-link a {
+
+
+        padding: 10px;
+
+
+
+    }
+
+    #nav-link h1 {
+        color: white;
+        margin-right: 200px;
+    }
+
+    #navbar-btn {
+
+        margin-top: 10px;
+
+
+    }
+}
+
+@media only screen and (max-width:1550px) {
+
+    #nav-link h1 {
+
+        margin-right: 150px;
+    }
+}
+
+
+
+@media only screen and (max-width:990px) {
+
+    #nav-link h1 {
+
+        margin-right: 80px;
+    }
+
+    #h1 {
+
+        display: block;
+    }
+
+    #nav-link h1 {
+
+        display: none;
+    }
+
+#navbar-btn{
+
+width: 150px;
+
+}
+
+
+}
+
+
+@media only screen and (max-width:600px) {
+
+    
+#nav-link li{
+
+    padding-left: 200px;
+
+}
+#nav-link{
+
+    margin-right: 900px;
+
+
+}
+
+
+}
+
+
+
+/* footer css is start */
+
+
+        
+@media only screen and (max-width: 912px) {
+          
+    .f1{
+width: 90%;
+margin-left: 5%;
+
+    }
+    .f2{
+margin-right: 5%;
+        width: 20%;
+    }
+
+    .f3{
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .f4{
+
+width: 90%;
+
+    }
+
+  
+    .footer-all-col h5{
+
+        padding-bottom: 0%;
+        
+        
+            
+        
+    }
+    .footer-all-col{
+
+        padding: 3%;
+        
+        
+            
+        
+    }
+    .footer-all-col li{
+
+        list-style: none;
+        padding-top: 5%;
+        }
+
+ 
+    
+}
+        
+@media only screen and (max-width: 500px) {
+          
+       .footer-all-col{
+width: 100%;
+
+
+       }
+
+       .f2{
+        margin-right: 0%;
+                width: 100%;
+            }
+        
+            .f3{
+                width: 100%;
+                margin-left: 0%;
+            }
+            .Copyright{
+
+
+                margin-top: 8%;
+            }
+.footer-all-col h2{
+margin-top: 10%;
+}
+}
+
+
+/* index page css is start */
+
+  
+@media only screen and (max-width: 912px) {
+          
+   
+
+#banner-img{
+
+margin-left: 10%;
+
+width: 75%;
+}
+
+
+}
+
+
+@media only screen and (max-width: 550px) {
+   
+    #banner-btn{
+  
+right: 25%;
+    font-size: 115%;
+    }
+    
+
+    #banner-text h2{
+       
+        padding: 11%;
+     
+        }
+
+        .about-sec-ul i{
+    
+     display: none;
+        
+        
+        }
+
+.card2{
+
+
+    margin-left: 5%;
+}
+
+}
+
+
+    /* service page css is start */
+
+    
+
+@media only screen and (max-width: 500px) {
+          
+       
+    .detail-2{
+
+margin-right: 12%;
+
+
+    }
+    
+        
+                 
+
+            }     
+              
+
+
+                
+            @media only screen and (max-width: 912px) {
+          
+       
+                .detail-2{
+            margin-top: 5%;
+            margin-right: 5%;
+            width: 90%;
+            
+                }
+                
+                .detail-1{
+                    margin-left: 10%;
+                    
+                                    }
+                    
+                             
+            
+                        }     
+                          
+@media only screen and (max-width: 766px) {
+          
+     .cd{ 
+        
+        margin-top: 10%;
+    
+     }
+              }
+
+
+
+
+   /* pricing page css is start */
+   
+
+@media only screen and (max-width: 912px) {
+          
+    .pricing button{
+        height: 75%;
+            width: 30%;
+        
+        }
+
+        .pricing{
+            width: 70%;
+            margin-left: 16%;
+               
+            
+            
+            }
+             }
+
+
+             
+             @media only screen and (max-width: 550px) {
+          
+                .pricing button{
+                    height: 75%;
+                        width: 50%;
+                    
+                    }
+            
+                    .pricing{
+                        width: 90%;
+                       margin-left: 5%;
+                           
+                        
+                        
+                        }
+                         }
+            
+
+
+
+/* contact form css is start */
+
+
+
+@media only screen and (max-width: 912px) {
+          
+    .form-col{
+
+        position: relative;
+        right: 0%;
+          width: 90%;
+        }
+     
+
+             }
+
+ 
+@media only screen and (max-width: 767px) {
+          
+    .contact-btn button{
+    
+            width: 50%;
+        
+        
+        }
+             }
+
+             @media only screen and (max-width: 550px) {
+                .form-col{
+
+                   
+                      width: 87%;
+                    }
+                 
+                    .con{
+                        padding: 0%;
+                          margin-bottom: 7%;
+                        margin-top: 7%;
+                        }
+                         }
+            
